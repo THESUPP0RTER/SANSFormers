@@ -3,6 +3,9 @@
 This repository is the official implementation of [SANSformers: Self-Supervised Forecasting in ELECTRONIC HEALTH RECORDS with Attention-Free Models
 ](https://arxiv.org/abs/2108.13672). 
 
+Presentation regarding the experiments here:
+https://drive.google.com/file/d/1iLqgO9OZVRsf4BbA-P2kD6WM0Ew0nuVO/view?usp=sharing
+
 
 ## Requirements and Setup
 
