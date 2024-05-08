@@ -11,7 +11,11 @@ This repository is the official implementation of [SANSformers: Self-Supervised 
 - Clone this repository and make sure all the files in here are downloaded, mount them onto the drive.
 
 
+## Pretrained Models
 
+https://bitbucket.org/dlh169/dlh169pretrainedmodel/src
+
+Download these pretrained models if you would like to replicate what was created in my experiment
 
 ## Results
 
