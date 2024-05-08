@@ -8,7 +8,7 @@ This repository is the official implementation of [SANSformers: Self-Supervised 
 
 - You need to have access to the MIMC-IV v1.0 dataset
 - Download the ZIP file and mount it to the Jupyter Notebook file attached.
-- Clone this repository and make sure all the files in here are downloaded, mount them onto the drive.
+- Clone this repository and make sure all the files in here are downloaded, including the YAML and Pickle files, then mount them onto the drive.
 
 
 ## Pretrained Models
