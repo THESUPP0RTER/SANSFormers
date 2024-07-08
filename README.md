@@ -1,4 +1,4 @@
-# DLH Team 169 SANSFormers
+# My Contribution to SANSFormers
 
 This repository is the official implementation of [SANSformers: Self-Supervised Forecasting in ELECTRONIC HEALTH RECORDS with Attention-Free Models
 ](https://arxiv.org/abs/2108.13672). 
